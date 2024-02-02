@@ -1,9 +1,0 @@
-model\BinarySearchModel.class
-model\QuickSortModel.class
-model\LinearSearchModel.class
-model\BubbleSortModel.class
-controller\BubbleSortController.class
-controller\LinearSearchController.class
-controller\BinarySearchController.class
-controller\QuickSortController.class
-view\ConsoleView.class
