@@ -1,0 +1,4 @@
+view\Main.class
+view\EquationView.class
+controller\EquationController.class
+model\EquationModel.class
