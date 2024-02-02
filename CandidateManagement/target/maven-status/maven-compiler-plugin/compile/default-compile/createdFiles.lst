@@ -1,0 +1,7 @@
+model\InternCandidate.class
+view\CandidateView.class
+model\ExperienceCandidate.class
+model\CandidateDatabase.class
+controller\CandidateController.class
+model\Candidate.class
+model\FresherCandidate.class
