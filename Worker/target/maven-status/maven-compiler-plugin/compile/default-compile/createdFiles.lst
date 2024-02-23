@@ -1,0 +1,6 @@
+model\ManagementModel.class
+view\Main.class
+view\ManagementView.class
+model\SalaryHistory.class
+model\Worker.class
+controller\ManagementController.class
