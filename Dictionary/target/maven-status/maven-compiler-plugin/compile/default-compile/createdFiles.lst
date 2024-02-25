@@ -1,0 +1,4 @@
+controller\DictionaryController.class
+view\DictionaryMain.class
+view\DictionaryView.class
+model\DictionaryModel.class
