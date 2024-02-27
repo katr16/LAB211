@@ -1,0 +1,5 @@
+view\Main.class
+model\Triangle.class
+model\Shape.class
+view\ShapeView.class
+model\Rectangle.class
