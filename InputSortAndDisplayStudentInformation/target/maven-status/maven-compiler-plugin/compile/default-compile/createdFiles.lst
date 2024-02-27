@@ -1,0 +1,5 @@
+model\StudentComparator.class
+view\Main.class
+model\Student.class
+view\StudentView.class
+controller\StudentController.class
