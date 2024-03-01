@@ -1,0 +1,4 @@
+view\Main.class
+model\FileAnalyzerModel.class
+controller\FileAnalyzerController.class
+view\FileAnalyzerView.class
