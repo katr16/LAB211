@@ -1,0 +1,8 @@
+controller\Management.class
+Main.class
+model\InputData.class
+repository\AnaRepository.class
+repository\IAnaRepository.class
+common\Library.class
+dataAccess\AnaDao.class
+common\Validation.class
