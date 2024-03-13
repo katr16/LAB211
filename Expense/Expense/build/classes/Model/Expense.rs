@@ -1,2 +1,0 @@
-model.Expense
-Model.c
