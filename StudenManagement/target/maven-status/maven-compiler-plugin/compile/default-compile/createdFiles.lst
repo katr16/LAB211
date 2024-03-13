@@ -1,0 +1,4 @@
+main\StudentManagementApp.class
+model\Student.class
+view\StudentView.class
+controller\StudentController.class
